@@ -13,6 +13,7 @@ int main()
 	cout << "1+2=" << te.add(1,2) << endl;
 	cout << "2-1=" << te.sub(2,1) << endl;
 	cout << "2+3=" << te.add(2,3) << endl;
+	cout << "2-2=" << te.sub(2, 2) << endl;
     return 0;
 }
 
